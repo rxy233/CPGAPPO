@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_alloff",
+  "algorithm": "alloff",
   "dag": "default",
   "seed": 7,
   "energy": 0.20118241332082512,
@@ -14,5 +14,5 @@
   "runtime_min": 31.99,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt"
+  "matrix": "matrix_60.txt"
 }

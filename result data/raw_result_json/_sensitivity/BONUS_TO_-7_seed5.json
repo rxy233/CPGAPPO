@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v9_cpguide_credit",
-  "variant": "main3",
+  "algorithm": "CPGAPPO",
+  "variant": "CPGAPPO",
   "dag": "default",
   "seed": 5,
   "param_key": "BONUS_TO",
@@ -24,14 +24,13 @@
   "lr": 0.0003,
   "entropy_coef": 0.02,
   "lambda_guide": 0.1,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "delay_all": 1.2451878341453064,
   "D_succ": 1.2767347926816333,
   "D_all": 1.2451878341453064,
   "E_succ": 0.20272840066563497,
   "E_all": 0.20272840066563497,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\main3_sens_BONUS_TO_20260822_012650\\default__main3__pBONUS_TO__v-7__seed5\\checkpoints\\GuidedV9_cpguide_credit.pt",
-  "UtilityScore_succ": -0.02102381777854451,
-  "UtilityScore_all": -0.018273693431896658
+  "UtilityScore_succ": 0.15125536151624647,
+  "UtilityScore_all": 0.1527484851957646
 }

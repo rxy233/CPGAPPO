@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_noshield",
+  "algorithm": "noshield",
   "variant": "noshield",
   "kind": "rl",
   "dag": "chain",
@@ -17,14 +17,13 @@
   "runtime_min": 58.66,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_chain.txt",
+  "matrix": "matrix_60_chain.txt",
   "delay_all": 1.218188996014395,
   "D_succ": 1.2324874954709035,
   "D_all": 1.218188996014395,
   "E_succ": 0.198836836856724,
   "E_all": 0.198836836856724,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\main_comparison_20260821_155715\\chain__noshield__seed7\\checkpoints\\GuidedV3_cpguide_credit_noshield.pt",
-  "UtilityScore_succ": 0.58256084986212,
-  "UtilityScore_all": 0.5833840231615657
+  "UtilityScore_succ": 0.6809694035109158,
+  "UtilityScore_all": 0.681340740333405
 }

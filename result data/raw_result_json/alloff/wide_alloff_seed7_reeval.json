@@ -15,7 +15,6 @@
   "energy": 0.12190692048418365,
   "total_energy": 18.286038072627505,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\ablation_classic_wide_20260608_114130\\wide__alloff__seed7\\checkpoints\\GuidedV3_cpguide_credit_alloff.pt",
   "config": {
     "timeout_charge_mode": "deadline",
     "deadline_charge_formula": "get_app_deadline_slot(uid) * slot_interval (= TD_i^max - TS_i)",

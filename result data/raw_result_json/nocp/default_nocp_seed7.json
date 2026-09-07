@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_nocp",
+  "algorithm": "nocp",
   "dag": "default",
   "seed": 7,
   "energy": 0.19465487620120378,
@@ -14,5 +14,5 @@
   "runtime_min": 39.11,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt"
+  "matrix": "matrix_60.txt"
 }

@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v9_cpguide_credit",
-  "variant": "main3",
+  "algorithm": "CPGAPPO",
+  "variant": "CPGAPPO",
   "dag": "default",
   "seed": 3,
   "param_key": "OVERFLOW_MULT",
@@ -24,14 +24,13 @@
   "lr": 0.0003,
   "entropy_coef": 0.02,
   "lambda_guide": 0.1,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "delay_all": 1.3263086430387843,
   "D_succ": 1.355011273528849,
   "D_all": 1.3263086430387843,
   "E_succ": 0.22738929705753227,
   "E_all": 0.22738929705753227,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\main3_sens_OVERFLOW_CP_20260824_094055\\default__main3__pOVERFLOW_MULT__v1p5__seed3\\checkpoints\\GuidedV9_cpguide_credit.pt",
-  "UtilityScore_succ": 0.14687442854326443,
-  "UtilityScore_all": 0.1493226618222799
+  "UtilityScore_succ": 0.3880577027665868,
+  "UtilityScore_all": 0.38923828275825534
 }

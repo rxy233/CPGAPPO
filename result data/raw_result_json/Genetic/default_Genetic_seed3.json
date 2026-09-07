@@ -8,14 +8,14 @@
   "energy": 0.2617490450398739,
   "delay": 1.2370549067815713,
   "delay_succ": 1.460006267868542,
-  "app_timeout_rate": 0.3466666666666667,
-  "task_timeout_rate": 0.7613333333333333,
+  "app_timeout_rate": 0.35333333333333333,
+  "task_timeout_rate": 0.744,
   "score": -0.5146510951556671,
   "total_energy": 39.26235675598108,
   "runtime_sec": 3.0,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "D_succ": 1.460006267868542,
   "D_all": 1.404469215599874,
   "E_succ": 0.27841975342255915,
@@ -23,6 +23,6 @@
   "delay_all": 1.404469215599874,
   "ckpt_used": "n/a (heuristic)",
   "dall_reeval_ts": "2026-08-28 13:54:50",
-  "UtilityScore_succ": -0.5298090208263085,
-  "UtilityScore_all": -0.5263162539791945
+  "UtilityScore_succ": -0.5082904791921367,
+  "UtilityScore_all": -0.5062921820239463
 }

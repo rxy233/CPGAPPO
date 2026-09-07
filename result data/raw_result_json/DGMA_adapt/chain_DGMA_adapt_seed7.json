@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_dgma_adapt_wrapper",
+  "algorithm": "DGMA_adapt",
   "variant": "DGMA_adapt",
   "kind": "rl",
   "dag": "chain",
@@ -17,7 +17,7 @@
   "runtime_min": 458.12,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_chain.txt",
+  "matrix": "matrix_60_chain.txt",
   "D_succ": 1.2522215260069287,
   "D_all": 1.2357105123659593,
   "E_succ": 0.19898698146196778,
@@ -25,6 +25,6 @@
   "delay_all": 1.2357105123659593,
   "ckpt_used": "best",
   "dall_reeval_ts": "2026-08-28 19:01:45",
-  "UtilityScore_succ": 0.500464826702785,
-  "UtilityScore_all": 0.5015433146343117
+  "UtilityScore_succ": 0.635596914182093,
+  "UtilityScore_all": 0.6360734565511115
 }

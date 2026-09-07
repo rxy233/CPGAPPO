@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_noappcredit",
+  "algorithm": "noappcredit",
   "dag": "chain",
   "seed": 7,
   "energy": 0.19719229722388315,
@@ -14,5 +14,5 @@
   "runtime_min": 55.68,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_chain.txt"
+  "matrix": "matrix_60_chain.txt"
 }

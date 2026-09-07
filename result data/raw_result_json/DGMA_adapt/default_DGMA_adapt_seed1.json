@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_dgma_adapt_wrapper",
+  "algorithm": "DGMA_adapt",
   "variant": "DGMA_adapt",
   "kind": "rl",
   "dag": "default",
@@ -8,8 +8,8 @@
   "energy": 0.20554381553658094,
   "delay": 1.2630109226049,
   "delay_succ": 1.2626558471454226,
-  "app_timeout_rate": 0.17333333333333334,
-  "task_timeout_rate": 0.6513333333333333,
+  "app_timeout_rate": 0.16666666666666666,
+  "task_timeout_rate": 0.6473333333333333,
   "score": 5337.992972918935,
   "total_energy": 30.83157233048714,
   "inference_time_ms": 0.0,
@@ -17,7 +17,7 @@
   "runtime_min": 108.08,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "D_succ": 1.2626558471454226,
   "D_all": 1.2241246777163377,
   "E_succ": 0.20483405572473182,
@@ -25,6 +25,6 @@
   "delay_all": 1.2241246777163377,
   "ckpt_used": "best",
   "dall_reeval_ts": "2026-08-28 13:55:28",
-  "UtilityScore_succ": -0.18409336696945855,
-  "UtilityScore_all": -0.1808449743245931
+  "UtilityScore_succ": 0.07514672665528398,
+  "UtilityScore_all": 0.07700274236072463
 }

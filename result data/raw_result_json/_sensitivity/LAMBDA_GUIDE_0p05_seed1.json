@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v9_cpguide_credit",
-  "variant": "main3",
+  "algorithm": "CPGAPPO",
+  "variant": "CPGAPPO",
   "dag": "default",
   "seed": 1,
   "param_key": "LAMBDA_GUIDE",
@@ -24,14 +24,13 @@
   "lr": 0.0003,
   "entropy_coef": 0.02,
   "lambda_guide": 0.05,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "delay_all": 1.2141737965602946,
   "D_succ": 1.2448435494549113,
   "D_all": 1.2141737965602946,
   "E_succ": 0.2039372192753502,
   "E_all": 0.2039372192753502,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\main3_sens_LAMBDA_BONUS_fill_20260825_233423\\default__main3__pLAMBDA_GUIDE__v0p05__seed1\\checkpoints\\GuidedV9_cpguide_credit.pt",
-  "UtilityScore_succ": 0.12528343746340923,
-  "UtilityScore_all": 0.12791525529563147
+  "UtilityScore_succ": 0.3655980424553594,
+  "UtilityScore_all": 0.36688466689149174
 }

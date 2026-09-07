@@ -13,7 +13,6 @@
     "energy": 0.22713839310223585,
     "total_energy": 34.07075896533538,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -59,7 +58,6 @@
     "energy": 0.24411458702837668,
     "total_energy": 36.6171880542565,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -105,7 +103,6 @@
     "energy": 0.21087728080240856,
     "total_energy": 31.631592120361283,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -151,7 +148,6 @@
     "energy": 0.21330506693136408,
     "total_energy": 31.995760039704614,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -197,7 +193,6 @@
     "energy": 0.21285123984585316,
     "total_energy": 31.927685976877974,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -243,7 +238,6 @@
     "energy": 0.21931960315211257,
     "total_energy": 32.897940472816884,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -289,7 +283,6 @@
     "energy": 0.23749482229106633,
     "total_energy": 35.62422334365995,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -335,7 +328,6 @@
     "energy": 0.21720041973514378,
     "total_energy": 32.58006296027157,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -381,7 +373,6 @@
     "energy": 0.21032241310502775,
     "total_energy": 31.548361965754165,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -427,7 +418,6 @@
     "energy": 0.21132171676891262,
     "total_energy": 31.69825751533689,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -473,7 +463,6 @@
     "energy": 0.1222163244151173,
     "total_energy": 18.332448662267595,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -519,7 +508,6 @@
     "energy": 0.12770856803189043,
     "total_energy": 19.156285204783565,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -565,7 +553,6 @@
     "energy": 0.13644199678545368,
     "total_energy": 20.46629951781805,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -611,7 +598,6 @@
     "energy": 0.1347212774782123,
     "total_energy": 20.208191621731846,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,
@@ -657,7 +643,6 @@
     "energy": 0.12412923879288976,
     "total_energy": 18.619385818933463,
     "ckpt_used": "n/a (heuristic)",
-    "ckpt_path": "n/a",
     "config": {
       "timeout_charge_mode": "deadline",
       "deadline_slot": 55,

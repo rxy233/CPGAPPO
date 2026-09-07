@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "algorithm": "train_dgma_paper_wrapper",
+  "algorithm": "DGMA_paper",
   "variant": "DGMA_paper",
   "kind": "rl",
   "dag": "default",
   "seed": 3,
-  "energy": 61.75734710997843,
+  "energy": 0.4117156473998562,
   "delay": 1.1,
   "delay_succ": 1.3822091743891154,
-  "app_timeout_rate": 1.0,
-  "task_timeout_rate": 0.9386666666666666,
+  "app_timeout_rate": 0.7533333333333333,
+  "task_timeout_rate": 0.8636666666666667,
   "score": -0.7629682417229227,
   "total_energy": -1.0,
   "inference_time_ms": 0.0,
@@ -17,7 +17,7 @@
   "runtime_min": 406.71,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "D_succ": 1.3822091743891154,
   "D_all": 1.4130790458859683,
   "E_succ": 0.3456575115758561,
@@ -25,6 +25,6 @@
   "delay_all": 1.4130790458859683,
   "ckpt_used": "best",
   "dall_reeval_ts": "2026-08-28 13:56:26",
-  "UtilityScore_succ": -0.7027694475548033,
-  "UtilityScore_all": -0.7041294039874593
+  "UtilityScore_succ": -0.6816649293139206,
+  "UtilityScore_all": -0.6824647750109498
 }

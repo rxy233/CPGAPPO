@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_alloff",
+  "algorithm": "alloff",
   "variant": "alloff",
   "kind": "rl",
   "dag": "default",
@@ -17,14 +17,13 @@
   "runtime_min": 22.74,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "delay_all": 1.3070531802242924,
   "D_succ": 1.3765890806575345,
   "D_all": 1.3070531802242924,
   "E_succ": 0.2271441458891306,
   "E_all": 0.2271441458891306,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\main_comparison_20260824_203442\\default__alloff__seed3\\checkpoints\\GuidedV3_cpguide_credit_alloff.pt",
-  "UtilityScore_succ": -0.3644581788215429,
-  "UtilityScore_all": -0.35918792130809724
+  "UtilityScore_succ": 0.015316800893242064,
+  "UtilityScore_all": 0.01868481139926544
 }

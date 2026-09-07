@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_transedge_style_wrapper",
+  "algorithm": "TransEdgeStyle",
   "variant": "TransEdgeStyle",
   "kind": "rl",
   "dag": "wide",
@@ -9,7 +9,7 @@
   "delay": 0.46801283168485125,
   "delay_succ": 0.4324566904490111,
   "app_timeout_rate": 0.03333333333333333,
-  "task_timeout_rate": 0.15745129015271195,
+  "task_timeout_rate": 0.0937335439705108,
   "score": 109.20379146919403,
   "total_energy": 21.593238403768833,
   "inference_time_ms": 0.0,
@@ -17,7 +17,7 @@
   "runtime_min": 18.31,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_wide.txt",
+  "matrix": "matrix_60_wide.txt",
   "D_succ": 0.4324566904490111,
   "D_all": 0.43589868569254225,
   "E_succ": 0.12975549363088165,
@@ -25,6 +25,6 @@
   "delay_all": 0.43589868569254225,
   "ckpt_used": "best",
   "dall_reeval_ts": "2026-08-28 13:56:19",
-  "UtilityScore_succ": 0.6603354657802875,
-  "UtilityScore_all": 0.6603354657802875
+  "UtilityScore_succ": 0.7271410094124607,
+  "UtilityScore_all": 0.7271410094124607
 }

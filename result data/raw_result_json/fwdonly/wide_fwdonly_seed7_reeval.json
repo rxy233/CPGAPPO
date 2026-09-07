@@ -15,7 +15,6 @@
   "energy": 0.11903509475150514,
   "total_energy": 17.85526421272571,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\ablation_classic_wide_20260608_114130\\wide__fwdonly__seed7\\checkpoints\\GuidedV3_cpguide_credit_fwdonly.pt",
   "config": {
     "timeout_charge_mode": "deadline",
     "deadline_charge_formula": "get_app_deadline_slot(uid) * slot_interval (= TD_i^max - TS_i)",

@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v9_cpguide_credit",
-  "variant": "main3",
+  "algorithm": "CPGAPPO",
+  "variant": "CPGAPPO",
   "dag": "default",
   "seed": 42,
   "param_key": "CP_REM_COEFF",
@@ -24,14 +24,13 @@
   "lr": 0.0003,
   "entropy_coef": 0.02,
   "lambda_guide": 0.1,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "delay_all": 1.0863475905827056,
   "D_succ": 1.0924798492070833,
   "D_all": 1.0863475905827056,
   "E_succ": 0.20062490817622997,
   "E_all": 0.20062490817622997,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\main3_sens_OVERFLOW_CP_20260824_094055\\default__main3__pCP_REM_COEFF__v0p8__seed42\\checkpoints\\GuidedV9_cpguide_credit.pt",
-  "UtilityScore_succ": 0.6290441736353202,
-  "UtilityScore_all": 0.6293672403505938
+  "UtilityScore_succ": 0.6904236795875668,
+  "UtilityScore_all": 0.6905791275312767
 }

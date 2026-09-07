@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_nocp",
+  "algorithm": "nocp",
   "variant": "nocp",
   "kind": "rl",
   "dag": "wide",
@@ -17,10 +17,10 @@
   "runtime_min": 31.58,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_wide.txt",
+  "matrix": "matrix_60_wide.txt",
   "delay_all": null,
   "D_all": null,
-  "r1_5_eval_error": "Neither best nor last ckpt exists:\n  D:\\svn\\fenxi\\main_comparison_20260824_203442\\wide__nocp__seed3\\checkpoints\\GuidedV3_cpguide_credit_nocp.pt\n  D:\\svn\\fenxi\\main_comparison_20260824_203442\\wide__nocp__seed3\\checkpoints\\GuidedV3_cpguide_credit_nocp_last.pt",
+  "r1_5_eval_error": "checkpoint not found",
   "UtilityScore_succ": 0.4933247316961311,
   "UtilityScore_all": 0.4933247316961311
 }

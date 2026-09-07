@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_ppo_wrapper",
+  "algorithm": "PPO",
   "variant": "PPO",
   "kind": "rl",
   "dag": "default",
@@ -8,8 +8,8 @@
   "energy": 0.3098166300168193,
   "delay": 1.1684033685770931,
   "delay_succ": 0.9764721891092084,
-  "app_timeout_rate": 0.11333333333333333,
-  "task_timeout_rate": 0.582,
+  "app_timeout_rate": 0.7533333333333333,
+  "task_timeout_rate": 0.7566666666666667,
   "score": -1.0,
   "total_energy": -1.0,
   "inference_time_ms": 0.0,
@@ -17,7 +17,7 @@
   "runtime_min": 15.31,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "D_succ": 0.9764721891092084,
   "D_all": 1.3354512898944462,
   "E_succ": 0.1651066974330374,
@@ -25,6 +25,6 @@
   "delay_all": 1.3354512898944462,
   "ckpt_used": "best",
   "dall_reeval_ts": "2026-08-28 19:08:55",
-  "UtilityScore_succ": -0.6581885817717157,
-  "UtilityScore_all": -0.6755688146171687
+  "UtilityScore_succ": -0.6520719902155933,
+  "UtilityScore_all": -0.6619560845476818
 }

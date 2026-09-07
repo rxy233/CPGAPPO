@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_dynamic_gat_dqn_wrapper",
+  "algorithm": "GATDQN",
   "variant": "GATDQN",
   "kind": "rl",
   "dag": "wide",
@@ -8,8 +8,8 @@
   "energy": 0.1346962900297302,
   "delay": 0.7491591361866147,
   "delay_succ": 0.412823575672193,
-  "app_timeout_rate": 0.07333333333333333,
-  "task_timeout_rate": 0.21926910299003322,
+  "app_timeout_rate": 0.03333333333333333,
+  "task_timeout_rate": 0.13565891472868216,
   "score": 802.7026790714606,
   "total_energy": -1.0,
   "inference_time_ms": 0.0,
@@ -17,7 +17,7 @@
   "runtime_min": 20.02,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_wide.txt",
+  "matrix": "matrix_60_wide.txt",
   "D_succ": 0.412823575672193,
   "D_all": 0.4248965082133836,
   "E_succ": 0.11897601587786533,
@@ -25,6 +25,6 @@
   "delay_all": 0.4248965082133836,
   "ckpt_used": "best",
   "dall_reeval_ts": "2026-08-28 13:55:33",
-  "UtilityScore_succ": 0.6567741069945878,
-  "UtilityScore_all": 0.6567741069945878
+  "UtilityScore_succ": 0.7241637340656597,
+  "UtilityScore_all": 0.7241637340656597
 }

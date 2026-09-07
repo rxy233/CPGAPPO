@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_noappcredit",
+  "algorithm": "noappcredit",
   "variant": "noappcredit",
   "kind": "rl",
   "dag": "default",
@@ -17,14 +17,13 @@
   "runtime_min": 27.99,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60.txt",
+  "matrix": "matrix_60.txt",
   "delay_all": 1.3108315510992037,
   "D_succ": 1.3828101130792902,
   "D_all": 1.3108315510992037,
   "E_succ": 0.22656987926566732,
   "E_all": 0.22656987926566732,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\main_comparison_20260824_203442\\default__noappcredit__seed3\\checkpoints\\GuidedV3_cpguide_credit_noappcredit.pt",
-  "UtilityScore_succ": -0.11739616827542308,
-  "UtilityScore_all": -0.11120099562653811
+  "UtilityScore_succ": 0.14686580942005611,
+  "UtilityScore_all": 0.1502761620753761
 }

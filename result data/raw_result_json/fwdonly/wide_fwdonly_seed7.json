@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_fwdonly",
+  "algorithm": "fwdonly",
   "dag": "wide",
   "seed": 7,
   "energy": 0.11903509475150514,
@@ -14,5 +14,5 @@
   "runtime_min": 31.36,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_wide.txt"
+  "matrix": "matrix_60_wide.txt"
 }

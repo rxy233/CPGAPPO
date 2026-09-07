@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_alloff",
+  "algorithm": "alloff",
   "variant": "alloff",
   "kind": "rl",
   "dag": "chain",
@@ -17,14 +17,13 @@
   "runtime_min": 44.31,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_chain.txt",
+  "matrix": "matrix_60_chain.txt",
   "delay_all": 1.5120391117820786,
   "D_succ": 1.58883537517665,
   "D_all": 1.5120391117820786,
   "E_succ": 0.23209168336711425,
   "E_all": 0.23209168336711425,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\main_comparison_20260824_203442\\chain__alloff__seed3\\checkpoints\\GuidedV3_cpguide_credit_alloff.pt",
-  "UtilityScore_succ": -0.2675274690770899,
-  "UtilityScore_all": -0.26129838843763276
+  "UtilityScore_succ": -0.042468447380158966,
+  "UtilityScore_all": -0.03875383899253907
 }

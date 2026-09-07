@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "train_guided_v3_cpguide_credit_fwdonly",
+  "algorithm": "fwdonly",
   "variant": "fwdonly",
   "dag": "chain",
   "seed": 5,
@@ -16,14 +16,13 @@
   "runtime_min": 37.38,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_chain.txt",
+  "matrix": "matrix_60_chain.txt",
   "delay_all": 1.4767987437826382,
   "D_succ": 1.4935381554636786,
   "D_all": 1.4767987437826382,
   "E_succ": 0.20557240244992112,
   "E_all": 0.20557240244992112,
   "ckpt_used": "best",
-  "ckpt_path": "D:\\svn\\fenxi\\ablation_classic_chain_20260819_022418\\chain__fwdonly__seed5\\checkpoints\\GuidedV3_cpguide_credit_fwdonly.pt",
-  "UtilityScore_succ": 0.2568191048064779,
-  "UtilityScore_all": 0.25818214044920124
+  "UtilityScore_succ": 0.47923316272976774,
+  "UtilityScore_all": 0.47985767588933476
 }

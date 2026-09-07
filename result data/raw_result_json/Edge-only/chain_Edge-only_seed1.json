@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "Edge",
+  "algorithm": "Edge-only",
   "variant": "Edge-only",
   "kind": "bench",
   "dag": "chain",
@@ -8,14 +8,14 @@
   "energy": 0.2834930125119482,
   "delay": 1.263998286173821,
   "delay_succ": 1.590133548860593,
-  "app_timeout_rate": 0.4666666666666667,
-  "task_timeout_rate": 0.7543333333333333,
+  "app_timeout_rate": 0.23333333333333334,
+  "task_timeout_rate": 0.71,
   "score": -0.5664879394335202,
   "total_energy": 42.52395187679223,
   "runtime_sec": 2.8,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_chain.txt",
+  "matrix": "matrix_60_chain.txt",
   "D_succ": 1.590133548860593,
   "D_all": 1.528678348664881,
   "E_succ": 0.2790622389868052,
@@ -23,6 +23,6 @@
   "delay_all": 1.528678348664881,
   "ckpt_used": "n/a (heuristic)",
   "dall_reeval_ts": "2026-08-28 14:02:03",
-  "UtilityScore_succ": -0.48087966836193796,
-  "UtilityScore_all": -0.47674894773037485
+  "UtilityScore_succ": -0.3710491094803142,
+  "UtilityScore_all": -0.368478728627111
 }

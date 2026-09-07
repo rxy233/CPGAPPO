@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "algorithm": "Local",
+  "algorithm": "Local-only",
   "variant": "Local-only",
   "kind": "bench",
   "dag": "chain",
@@ -9,13 +9,13 @@
   "delay": 1.099999999999997,
   "delay_succ": 1.1,
   "app_timeout_rate": 1.0,
-  "task_timeout_rate": 0.911,
+  "task_timeout_rate": 0.864,
   "score": -0.7835020206458064,
   "total_energy": 62.89403202817497,
   "runtime_sec": 2.7,
   "episodes": 100,
   "deadline_slot": 55,
-  "matrix": "D:\\svn\\第一论文大修\\matrix\\matrix_60_chain.txt",
+  "matrix": "matrix_60_chain.txt",
   "D_succ": 1.1,
   "D_all": 1.6302666666666676,
   "E_succ": 0.41212900202506814,
@@ -23,6 +23,6 @@
   "delay_all": 1.6302666666666676,
   "ckpt_used": "n/a (heuristic)",
   "dall_reeval_ts": "2026-08-28 19:09:38",
-  "UtilityScore_succ": -0.7788147897136027,
-  "UtilityScore_all": -0.7963648640997464
+  "UtilityScore_succ": -0.7583156297674237,
+  "UtilityScore_all": -0.769022357111066
 }
